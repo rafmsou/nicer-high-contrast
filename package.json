@@ -2,6 +2,7 @@
     "name": "nicer-high-contrast",
     "displayName": "Nicer High Contrast",
     "publisher": "rafmsou",
+    "repository": "https://github.com/rafmsou/nicer-high-contrast",
     "description": "An opinionated implementation of a high contrast theme for those who don't need that much high constrast.",
     "version": "0.0.1",
     "engines": {
