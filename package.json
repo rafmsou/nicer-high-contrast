@@ -1,0 +1,22 @@
+{
+    "name": "nicer-high-contrast",
+    "displayName": "Nicer High Contrast",
+    "publisher": "rafmsou",
+    "description": "An opinionated implementation of a high contrast theme for those who don't need that much high constrast.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nicer High Contrast",
+                "uiTheme": "hc-black",
+                "path": "./themes/Nicer High Contrast-color-theme.json"
+            }
+        ]
+    }
+}
