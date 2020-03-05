@@ -5,13 +5,14 @@
     "repository": "https://github.com/rafmsou/nicer-high-contrast",
     "icon": "icon/256x256.png",
     "description": "An opinionated implementation of a high contrast theme for those who don't need that much high constrast.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.42.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": ["high contrast", "dark"],
     "contributes": {
         "themes": [
             {

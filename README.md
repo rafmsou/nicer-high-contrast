@@ -4,8 +4,6 @@ High constrast themes are my favourite because of it's unique color scheme/token
 
 The font in the screenshot is Operator Mono. You can get/buy it here: http://www.typography.com/blog/introducing-operator
 
-# Screenshots
+# Screenshot
 
-![Image 3](/images/image3.png)
-![Image 2](/images/image2.png)
 ![Image 1](/images/image1.png)
