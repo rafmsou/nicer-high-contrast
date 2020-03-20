@@ -17,6 +17,7 @@
 		"editor.selectionBackground": "#fbff007a",
 		"editor.selectionForeground": "#000000",
 		"editor.selectionHighlightBorder": "#c6fd008c",
+		"editorRuler.foreground": "#77ccfa73",
 		"editorGroup.dropBackground": "#ffffff4b",
 		"editorLineNumber.activeForeground": "#c6fd00",
 		"editorLink.activeForeground": "#c6fd00",
