@@ -5,7 +5,7 @@
     "repository": "https://github.com/rafmsou/nicer-high-contrast",
     "icon": "icon/256x256.png",
     "description": "An opinionated implementation of a high contrast theme for those who don't need that much high constrast.",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "scripts": {
         "release": "vsce publish"
     },
