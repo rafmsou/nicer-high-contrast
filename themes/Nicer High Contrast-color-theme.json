@@ -29,7 +29,7 @@
 		"list.activeSelectionBackground": "#4d4a4a",
 		"list.dropBackground": "#ffffff4b",
 		"list.focusBackground": "#4d4a4a",
-		"quickInput.list.focusBackground": "#4d4a4a",
+		"quickInputList.focusBackground": "#4d4a4a",
 		"list.highlightForeground": "#c6fd00",
 		"list.hoverBackground": "#4d4a4a69",
 		"list.inactiveSelectionBackground": "#4d4a4a69",
