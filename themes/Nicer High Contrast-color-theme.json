@@ -41,6 +41,7 @@
 		"peekView.border": "#77ccfa73",
 		"peekViewEditor.background": "#4d4a4a69",
 		"peekViewResult.background": "#4d4a4a69",
+		"peekViewResult.selectionBackground": "#3b3b37",
 		"peekViewTitle.background": "#77ccfa73",
 		"quickInput.background": "#000000",
 		"sash.hoverBorder": "#3b3b37",
