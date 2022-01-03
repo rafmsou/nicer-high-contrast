@@ -27,5 +27,8 @@
                 "path": "./themes/Nicer High Contrast-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^2.6.3"
     }
 }
