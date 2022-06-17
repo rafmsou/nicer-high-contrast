@@ -9,33 +9,17 @@ High constrast themes are my favourite because of it's unique color scheme/token
 
 The font in the screenshot is Operator Mono. You can get/buy it here: http://www.typography.com/blog/introducing-operator
 
-I use an [extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) to customize the font and the tabs height with this custom CSS:
+I use the [CustomizeUI extension](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) to customize the whole UI of VS Code.
 
-```css
-/**** EDITOR FONT ****/
-.monaco-shell,
-.mac,
-.view-lines {
-  font-family: "OperatorMonoLig-Book"!important;
-}
+settings.json:
 
-/**** TAB BAR HEIGHT ****/
-.monaco-workbench .part.editor > .content .editor-group-container > .title .tabs-container {
-  height: 25px;
-}
-.monaco-workbench .part.editor > .content .editor-group-container >.title .tabs-container >.tab {
-  height: 25px!important;
-}
-.monaco-workbench .part.editor > .content .editor-group-container > .title .tabs-container > .tab .tab-label {
-  line-height: 25px!important;
-}
-.monaco-workbench .part.editor>.content .editor-group-container>.title .monaco-icon-label:before {
-  height: 25px!important;
-}
-.monaco-workbench .part.editor > .content .editor-group-container > .title .editor-actions {
-  height: 25px!important;
-}
-.monaco-workbench .part.editor > .content .editor-group-container > .title .editor-actions .action-label:not(span) {
-  height: 25px!important;
+```json
+{
+  "customizeUI.activityBar": "bottom",
+  "customizeUI.titleBar": "inline",
+  "customizeUI.activityBarHideSettings": true,
+  "customizeUI.statusBarPosition": "under-panel",
+  "customizeUI.font.monospace": "OperatorMonoLig-Book",
+  "customizeUI.font.regular": "OperatorMonoLig-Book"
 }
 ```
